@@ -13,4 +13,4 @@ This time the token is released on the **Bitcoin Cash Blockchain**.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [discord](https://discord.gg/3thENnjXeB) or and we’ll help you sort it out.
